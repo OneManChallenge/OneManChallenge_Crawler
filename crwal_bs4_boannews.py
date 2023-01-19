@@ -55,8 +55,8 @@ headers = {
 
 def news_crawl(news_id):
     # try:
-        target_url = 'https://www.boannews.com/'
-        url = target_url + 'media/t_list.asp?Page=' + str(news_id)
+        target_url = 'https://www.boannews.com'
+        url = target_url + '/media/t_list.asp?Page=' + str(news_id)
 
         print(url)
         response = requests.get(url, headers=headers, verify=False)
