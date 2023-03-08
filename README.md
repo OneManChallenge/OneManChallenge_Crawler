@@ -1,8 +1,8 @@
 # OneManChallenge_Crawler
-프로젝트용 크롤러
+프로젝트용 IT 뉴스 기사 수집 크롤러
 
 ## 1. 기술스택
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> Beautifulsoup4 
 
 ## 2. 크롤링 참고사항
 - (처벌)상대방 서비스 지장 없도록 진행
